@@ -3,7 +3,7 @@
 import { postsState } from "@/features/stores/postsState";
 import axios from "axios";
 import Link from "next/link";
-import { useRecoilState, useSetRecoilState } from "recoil";
+import { useSetRecoilState } from "recoil";
 import useSWR, { Fetcher } from "swr";
 
 export type Post = {
