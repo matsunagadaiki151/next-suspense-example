@@ -22,3 +22,8 @@ Next 13のクライアントコンポーネントでSuspenseを仕様する例�
 - SWR
 - TailwindCSS
 - jsonplaceholder
+
+## 参考
+- (公式doc) Loading UI and Streaming ([https://nextjs.org/docs/app/building-your-application/routing/loading-ui-and-streaming])
+- (Udemy) 今後のフロントエンド開発で必須知識となるReact v18の機能を丁寧に理解する ([https://www.udemy.com/course/react_v18/])
+- (Zenn) Next.js 13 の React Server Components(RSC) とデータフェッチ ([https://zenn.dev/tfutada/articles/36ad71ab598019])
